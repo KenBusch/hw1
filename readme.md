@@ -1,0 +1,1 @@
+These HTML pages comprise the fictional storefront website for my hw1 of my software development class!
